@@ -1,0 +1,123 @@
+Splitting on Petal Width Bucket, level = 0, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 7, 'Iris-setosa': 0, 'Iris-virginica': 11}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 10, 'Iris-setosa': 11, 'Iris-virginica': 0}}
+
+Splitting on Petal Length Bucket, level = 1, set = {Interval(4.5, 6.9, closed='right'): {'Iris-versicolor': 5, 'Iris-virginica': 10}, Interval(0.999, 4.5, closed='right'): {'Iris-versicolor': 2, 'Iris-virginica': 1}}
+
+Splitting on Sepal Length Bucket, level = 2, set = {Interval(4.399, 5.8, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 2}, Interval(5.8, 7.7, closed='right'): {'Iris-versicolor': 5, 'Iris-virginica': 8}}
+
+Splitting on Sepal Width Bucket, level = 3, set = {Interval(3.0, 3.8, closed='right'): {'Iris-versicolor': 2, 'Iris-virginica': 4}, Interval(2.1990000000000003, 3.0, closed='right'): {'Iris-versicolor': 3, 'Iris-virginica': 4}}
+
+Splitting on Petal Width Bucket, level = 4, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 2, 'Iris-virginica': 4}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 5, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 2, 'Iris-virginica': 4}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 6, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 2, 'Iris-virginica': 4}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 7, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 2, 'Iris-virginica': 4}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 8, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 2, 'Iris-virginica': 4}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 9, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 2, 'Iris-virginica': 4}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 10, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 2, 'Iris-virginica': 4}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 4, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 3, 'Iris-virginica': 4}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 5, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 3, 'Iris-virginica': 4}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 6, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 3, 'Iris-virginica': 4}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 7, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 3, 'Iris-virginica': 4}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 8, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 3, 'Iris-virginica': 4}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 9, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 3, 'Iris-virginica': 4}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 10, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 3, 'Iris-virginica': 4}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Sepal Width Bucket, level = 2, set = {Interval(3.0, 3.8, closed='right'): {'Iris-versicolor': 1, 'Iris-virginica': 0}, Interval(2.1990000000000003, 3.0, closed='right'): {'Iris-versicolor': 1, 'Iris-virginica': 1}}
+
+Splitting on Petal Width Bucket, level = 3, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 1, 'Iris-virginica': 1}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 4, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 1, 'Iris-virginica': 1}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 5, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 1, 'Iris-virginica': 1}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 6, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 1, 'Iris-virginica': 1}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 7, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 1, 'Iris-virginica': 1}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 8, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 1, 'Iris-virginica': 1}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 9, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 1, 'Iris-virginica': 1}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 10, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 1, 'Iris-virginica': 1}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Sepal Width Bucket, level = 1, set = {Interval(3.0, 3.8, closed='right'): {'Iris-versicolor': 2, 'Iris-setosa': 9}, Interval(2.1990000000000003, 3.0, closed='right'): {'Iris-versicolor': 8, 'Iris-setosa': 2}}
+
+Splitting on Sepal Length Bucket, level = 2, set = {Interval(4.399, 5.8, closed='right'): {'Iris-versicolor': 0, 'Iris-setosa': 9}, Interval(5.8, 7.7, closed='right'): {'Iris-versicolor': 2, 'Iris-setosa': 0}}
+
+Splitting on Sepal Length Bucket, level = 2, set = {Interval(4.399, 5.8, closed='right'): {'Iris-versicolor': 5, 'Iris-setosa': 2}, Interval(5.8, 7.7, closed='right'): {'Iris-versicolor': 3, 'Iris-setosa': 0}}
+
+Splitting on Petal Width Bucket, level = 3, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 0, 'Iris-setosa': 0}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 5, 'Iris-setosa': 2}}
+
+Splitting on Petal Width Bucket, level = 4, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 0, 'Iris-setosa': 0}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 5, 'Iris-setosa': 2}}
+
+Splitting on Petal Width Bucket, level = 5, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 0, 'Iris-setosa': 0}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 5, 'Iris-setosa': 2}}
+
+Splitting on Petal Width Bucket, level = 6, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 0, 'Iris-setosa': 0}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 5, 'Iris-setosa': 2}}
+
+Splitting on Petal Width Bucket, level = 7, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 0, 'Iris-setosa': 0}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 5, 'Iris-setosa': 2}}
+
+Splitting on Petal Width Bucket, level = 8, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 0, 'Iris-setosa': 0}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 5, 'Iris-setosa': 2}}
+
+Splitting on Petal Width Bucket, level = 9, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 0, 'Iris-setosa': 0}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 5, 'Iris-setosa': 2}}
+
+Splitting on Petal Width Bucket, level = 10, set = {Interval(1.4, 2.5, closed='right'): {'Iris-versicolor': 0, 'Iris-setosa': 0}, Interval(0.199, 1.4, closed='right'): {'Iris-versicolor': 5, 'Iris-setosa': 2}}
+
+
+
+
+
+
+Splitting on Petal Width Bucket, level = 0, set = {Interval(1.2, 1.6, closed='right'): {'Iris-versicolor': 14, 'Iris-setosa': 0, 'Iris-virginica': 0}, Interval(1.6, 2.5, closed='right'): {'Iris-versicolor': 1, 'Iris-setosa': 0, 'Iris-virginica': 11}, Interval(0.199, 1.2, closed='right'): {'Iris-versicolor': 2, 'Iris-setosa': 11, 'Iris-virginica': 0}}
+
+Splitting on Sepal Width Bucket, level = 1, set = {Interval(2.1990000000000003, 2.8, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 6}, Interval(2.8, 3.2, closed='right'): {'Iris-versicolor': 1, 'Iris-virginica': 2}, Interval(3.2, 3.8, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 3}}
+
+Splitting on Petal Width Bucket, level = 2, set = {Interval(1.2, 1.6, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}, Interval(1.6, 2.5, closed='right'): {'Iris-versicolor': 1, 'Iris-virginica': 2}, Interval(0.199, 1.2, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 3, set = {Interval(1.2, 1.6, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}, Interval(1.6, 2.5, closed='right'): {'Iris-versicolor': 1, 'Iris-virginica': 2}, Interval(0.199, 1.2, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 4, set = {Interval(1.2, 1.6, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}, Interval(1.6, 2.5, closed='right'): {'Iris-versicolor': 1, 'Iris-virginica': 2}, Interval(0.199, 1.2, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 5, set = {Interval(1.2, 1.6, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}, Interval(1.6, 2.5, closed='right'): {'Iris-versicolor': 1, 'Iris-virginica': 2}, Interval(0.199, 1.2, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 6, set = {Interval(1.2, 1.6, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}, Interval(1.6, 2.5, closed='right'): {'Iris-versicolor': 1, 'Iris-virginica': 2}, Interval(0.199, 1.2, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 7, set = {Interval(1.2, 1.6, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}, Interval(1.6, 2.5, closed='right'): {'Iris-versicolor': 1, 'Iris-virginica': 2}, Interval(0.199, 1.2, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 8, set = {Interval(1.2, 1.6, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}, Interval(1.6, 2.5, closed='right'): {'Iris-versicolor': 1, 'Iris-virginica': 2}, Interval(0.199, 1.2, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 9, set = {Interval(1.2, 1.6, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}, Interval(1.6, 2.5, closed='right'): {'Iris-versicolor': 1, 'Iris-virginica': 2}, Interval(0.199, 1.2, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Petal Width Bucket, level = 10, set = {Interval(1.2, 1.6, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}, Interval(1.6, 2.5, closed='right'): {'Iris-versicolor': 1, 'Iris-virginica': 2}, Interval(0.199, 1.2, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 0}}
+
+Splitting on Sepal Width Bucket, level = 1, set = {Interval(2.1990000000000003, 2.8, closed='right'): {'Iris-versicolor': 2, 'Iris-setosa': 0}, Interval(2.8, 3.2, closed='right'): {'Iris-versicolor': 0, 'Iris-setosa': 3}, Interval(3.2, 3.8, closed='right'): {'Iris-versicolor': 0, 'Iris-setosa': 8}}
+
+
+
+
+
+
+Splitting on Petal Width Bucket, level = 0, set = {Interval(0.45, 1.4, closed='right'): {'Iris-versicolor': 10, 'Iris-setosa': 1, 'Iris-virginica': 0}, Interval(1.4, 1.75, closed='right'): {'Iris-versicolor': 7, 'Iris-setosa': 0, 'Iris-virginica': 1}, Interval(1.75, 2.5, closed='right'): {'Iris-versicolor': 0, 'Iris-setosa': 0, 'Iris-virginica': 10}, Interval(0.199, 0.45, closed='right'): {'Iris-versicolor': 0, 'Iris-setosa': 10, 'Iris-virginica': 0}}
+
+Splitting on Sepal Length Bucket, level = 1, set = {Interval(5.8, 6.6, closed='right'): {'Iris-versicolor': 2, 'Iris-setosa': 0}, Interval(6.6, 7.7, closed='right'): {'Iris-versicolor': 3, 'Iris-setosa': 0}, Interval(5.15, 5.8, closed='right'): {'Iris-versicolor': 4, 'Iris-setosa': 0}, Interval(4.399, 5.15, closed='right'): {'Iris-versicolor': 1, 'Iris-setosa': 1}}
+
+Splitting on Sepal Width Bucket, level = 2, set = {Interval(2.1990000000000003, 2.8, closed='right'): {'Iris-versicolor': 1, 'Iris-setosa': 0}, Interval(3.0, 3.3, closed='right'): {'Iris-versicolor': 0, 'Iris-setosa': 1}, Interval(3.3, 3.8, closed='right'): {'Iris-versicolor': 0, 'Iris-setosa': 0}, Interval(2.8, 3.0, closed='right'): {'Iris-versicolor': 0, 'Iris-setosa': 0}}
+
+Splitting on Sepal Length Bucket, level = 1, set = {Interval(5.8, 6.6, closed='right'): {'Iris-versicolor': 4, 'Iris-virginica': 0}, Interval(6.6, 7.7, closed='right'): {'Iris-versicolor': 2, 'Iris-virginica': 0}, Interval(5.15, 5.8, closed='right'): {'Iris-versicolor': 1, 'Iris-virginica': 0}, Interval(4.399, 5.15, closed='right'): {'Iris-versicolor': 0, 'Iris-virginica': 1}}
+
+
+
+
+
+
